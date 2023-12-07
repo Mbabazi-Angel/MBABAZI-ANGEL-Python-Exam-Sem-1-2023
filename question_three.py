@@ -35,9 +35,6 @@ def grade_students(mark):
     else:
         print('F')
 
-
-
-
 #v)
 def grade_students(mark):
     if mark >= 90:
